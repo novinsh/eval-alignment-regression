@@ -1,6 +1,6 @@
 # Overview
 
-This directory self-contain both predicting modeling and downstream decision modeling for the inventory optimization task.
+This directory self-contain both predicting modeling and downstream decision modeling for the inventory optimization task based on real data.
 
 To reproduce the results:
 -
