@@ -172,3 +172,14 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Ignore all data related csv and npy files
+./synthetic\ downstream/datasets/**/*.npy
+./synthetic tuna data/datasets/**/*.npy
+./tuna\ data/datasets/**/*.csv
+./tuna\ data/predictions/**/*.csv
+./tuna\ data/profits/**/*.npy
+
+# Ignore all the output related to the figures
+./figs/**/*.pdf
+./figs/**/*.png
