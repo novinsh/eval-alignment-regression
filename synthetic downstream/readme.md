@@ -1,0 +1,1 @@
+In this experiment we synthetically generate downstream scores based on a weighted proper scoring rule.
